@@ -1,10 +1,10 @@
+This is the home page. It is a Ecommerce based Website
+
 ![Screenshot (51)](https://user-images.githubusercontent.com/79981696/152801842-f4ba7440-1696-4928-9e0e-91dcaaa965c0.png)
 
 
 
-This is the home page. It is a Ecommerce based Website
-
-If you want to add a new product, it will ask us to choose type of product, after select type it will render to details page, after clicking the add product  it will render to home and shows new also with old products.
+If you want to add a new product, it will ask us to choose a type of product, after selecting type it will render to details page, after clicking the add product  it will render to home page and shows new product along with old products.
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/79981696/152802363-324acabb-6b47-4f69-9f9d-e9bcfb164a43.png)
 
